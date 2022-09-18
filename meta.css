@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+}
+#photo{
+    border: 5px blue solid;
+    
+}
+h1{
+    color: blue;
+    background-color: rgb(222, 147, 100);
+    text-align: center;
+    padding: 5px;
+}
+h2{
+    color: greenyellow;
+}
+div{
+    margin: 4
+}
+a{
+    padding-bottom: 20px;
+}
+ul{
+    color: rgb(111, 0, 128);
+}
+ol{
+    color: rgb(30, 11, 11);
+}
